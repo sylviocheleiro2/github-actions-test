@@ -7,4 +7,9 @@ public class CalculadoraTest
     {
         return i + i1;
     }
+
+    public int subt(int i, int i1)
+    {
+        return i - i1;
+    }
 }
